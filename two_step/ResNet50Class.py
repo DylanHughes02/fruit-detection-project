@@ -1,1 +1,0 @@
-#Classification with a ResNet 50 trained on ImageNet
